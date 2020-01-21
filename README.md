@@ -4,3 +4,7 @@ Developed and productionized algorithms for DHL to determine the geographic loca
 Realized Graph Theory Network Analysis and the Christofides algorithm in R and Python.
 
 Automated the computing processes to provide the customer a one-stop, end-to-end solution.
+
+The Overall distribution report and peoject procedure is included in ppt file.
+
+The Christofides Algorithm in written in Python, while the data manipulation as well as distribution design is written in R
