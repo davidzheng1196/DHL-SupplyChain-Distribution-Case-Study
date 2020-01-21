@@ -8,3 +8,9 @@ Automated the computing processes to provide the customer a one-stop, end-to-end
 The Overall distribution report and peoject procedure is included in ppt file.
 
 the data manipulation as well as distribution framework design is written in R, while the Christofides Algorithm is written in Python
+
+---
+layout:default
+title"Test Title
+description: Test Description
+---
